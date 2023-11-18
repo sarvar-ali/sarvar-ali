@@ -1,7 +1,4 @@
-
-
-###
-![Header](./header-file.png)
+![Header](./header.png)
 
 ###
 ```python
