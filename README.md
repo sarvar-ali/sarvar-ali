@@ -5,15 +5,14 @@
 
 ###
 ```bash
-public class DeveloperInfo {
-    public static void main(String[] args) {        
-        String name = "Sarvar";
-        String occupation = "Flutter developer";
-        String country = "Uzbekistan";
-       
-        System.out.println("My name is " + name + " and I'm a " + occupation + ", from " + country + ".");
-    }
-}
+# Information about the developer
+name = "Sarvar"
+occupation = "Flutter developer"
+country = "Uzbekistan"
+
+# Display the information
+print(f"My name is {name} and I'm a {occupation}, from {country}.")
+
 ```
 ###
 <h2 align="left">About me</h2>
