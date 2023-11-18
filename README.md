@@ -4,7 +4,7 @@
 
 
 ###
-```bash
+```python
 # Information about the developer
 name = "Sarvar"
 occupation = "Flutter developer"
