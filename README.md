@@ -4,7 +4,7 @@
 ```python
 # Information about the developer
 name = "Sarvar"
-occupation = "Flutter developer"
+occupation = "Flutter & Django dev"
 country = "Uzbekistan"
 
 # Display the information
