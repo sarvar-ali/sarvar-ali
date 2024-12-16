@@ -16,7 +16,7 @@ print(f"My name is {name} and I'm a {occupation}, from {country}.")
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Flutter and ML<br>🎓 I've graduated from SCHU | CSE</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 Currently learning Flutter and ML<br>🎓 Graduated SCHU | CSE</p>
 
 ###
 
